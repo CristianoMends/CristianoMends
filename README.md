@@ -1,16 +1,32 @@
-### Hi there 👋
 
-<!--
-**CristianoMends/CristianoMends** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<style>.text{text-align: center;}</style>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+<h1 class="center">
+Olá, bem vindo ao meu perfil!
+</h1>
+</div>
+<div>
+<p class="text">Minhas linguagens<p>
+<img height=100px width=100px src= "https://user-images.githubusercontent.com/116528159/215304718-e48cded1-125f-4e24-b3ac-a37f3b0e5a05.png"/>
+
+
+ </div>
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
