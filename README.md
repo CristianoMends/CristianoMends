@@ -1,8 +1,8 @@
 
 
-<h1 >
+<h3 >
 Olá, bem vindo ao meu perfil!
-</h1>
+</h3>
 <div>
 <p>Minhas Tecnologias preferidas<p>
  <img src= "https://user-images.githubusercontent.com/116528159/215343184-a0ac0b2b-8c27-4a6a-8daa-a4a7ac324b5a.png" heigth="100" width="100"/>
