@@ -1,10 +1,10 @@
                                                                                                             
 
-<h2>Olá, Meu nome é Cristiano!</h2>
-<h3> :man: &nbsp;Sobre mim </h3>
+<h2>Olá, Eu sou o Cristiano, Bem vindo(a) ao meu perfil GitHub!</h2>
 
-- 🤔 &nbsp; Aprendendo tecnologias e praticando desenvolvimento de software.
-- 🌱 &nbsp; Aprendendo mais sobre **Java, SQL, JavaScript, Html5 e Css**.
+- 🤔 &nbsp; Aprendendo novas tecnologias e praticando desenvolvimento de software.
+- 🌱 &nbsp; Estudando: **Java, SQL, JavaScript, Html e Css**.
+<img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianoMends&layout=compact&langs_count=16&theme=tokyonight"/>
 
 <h3> :rocket: &nbsp;Conhecimentos </h3>
 
@@ -21,13 +21,13 @@
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
-**Ferramentas de Desenvolvimento**
+**IDE's**
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 <br/>
 
-<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+<h3> :earth_americas: &nbsp;Contatos: </h3> 
 
 [![Cristiano](https://img.shields.io/badge/-CristianoMendes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cristiano-mendes-link/)](https://www.linkedin.com/in/cristiano-mendes-link/)
 [![Gmail Badge](https://img.shields.io/badge/-mendescristiano012@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
