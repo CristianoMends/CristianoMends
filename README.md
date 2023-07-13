@@ -1,16 +1,14 @@
                                                                                                             
 
 <h2>Olá, Eu sou o Cristiano, Bem vindo(a) ao meu perfil GitHub!</h2>
-
-- 🤔 &nbsp; Aprendendo novas tecnologias e praticando desenvolvimento de software.
-- 🌱 &nbsp; Estudando: **Java, SQL, JavaScript, Html e Css**.
-<img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianoMends&layout=compact&langs_count=16&theme=tokyonight"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianoMends&layout=compact&langs_count=16&theme=tokyonight"/>
 
 <h3> :rocket: &nbsp;Conhecimentos </h3>
 
 **Aplicações e Dados**
 
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+  ![Java](https://img.shields.io/badge/-java-333333?style=flat&logo=java)
+  ![Kotlin](https://img.shields.io/badge/-kotlin-333333?style=flat&logo=kotlin)  
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -24,6 +22,7 @@
 **IDE's**
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Android Studio](https://img.shields.io/badge/-android%20Studio%20-333333?style=flat&logo=android-studio&logoColor=A4C639)  
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 <br/>
 
