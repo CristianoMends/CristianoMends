@@ -7,7 +7,6 @@
 
 [![Cristiano](https://img.shields.io/badge/-CristianoMendes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cristiano-mendes-link/)](https://www.linkedin.com/in/cristiano-mendes-link/)
 [![Gmail Badge](https://img.shields.io/badge/-mendescristiano012@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
-[![GitHub: CristianoMends]( https://img.shields.io/github/followers/CristianoMends?label=follow&style=social)](https://github.com/CristianoMends)
 
 
 
