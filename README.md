@@ -2,7 +2,6 @@
   Olá, eu sou o Cristiano!👋<br>
   Bem-vindo(a) ao meu perfil GitHub!
 </h2>
-  <img src="https://raw.githubusercontent.com/CristianoMends/CristianoMends/main/eu.png" align="right" alt="Minha Imagem" width="250"/>
 
 
 <h3>💻 Sobre Mim</h3>
