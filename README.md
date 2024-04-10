@@ -11,7 +11,7 @@
 
 <h3>🛠️ Tecnologias</h3>
 
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianoMends&layout=compact&langs_count=16&theme=tokyonight"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianoMends&layout=compact&langs_count=16&theme=tokyonight&hide=html,css,procfile"/>
 
 <h3> :earth_americas: &nbsp;Contatos: </h3> 
 
