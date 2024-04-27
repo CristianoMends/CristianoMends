@@ -34,7 +34,7 @@
 <div align="center">
   
   [![Cristiano](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cristiano-mendes-link/)](https://www.linkedin.com/in/cristiano-mendes-link/)
-  [![Gmail Badge](https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mendescritiano012@gmail.com)](mailto:mendescristiano012@gmail.com)
+  [![Gmail Badge](https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mendescristiano012@gmail.com)](mailto:mendescristiano012@gmail.com)
   
 </div>
 
