@@ -1,5 +1,9 @@
 ![](https://komarev.com/ghpvc/?username=CristianoMends&color=006bed)
 
+<div align="center">
+  <img align="center" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW81MGdmYjJxNG91bXZvN3JnbnQweDd6NXZqNjZrc2d2cGVoeWZmYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6GbYc2jwEGlkzpngi4/giphy.gif">
+</div>
+
 
 ## Sobre Mim: 🙋‍♂️
 
