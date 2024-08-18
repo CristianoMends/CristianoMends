@@ -2,54 +2,46 @@
 
 
 
-## Sobre Mim: 🙋‍♂️
+# 👋 Olá, eu sou o Cristiano
 
-- Atualmente focado em explorar novas tecnologias e aprimorar minhas habilidades em desenvolvimento de software.
-- Estudando Engenharia de Software na Universidade Federal do Ceará (UFC).
-- Aprofundando meus conhecimentos em desenvolvimento FullStack e tecnologias relacionadas.
+Sou desenvolvedor de software e estudante de engenharia de software na [Universidade Federal do Ceará](https://www.quixada.ufc.br/).
+Meu principal objetivo é construir uma carreira sólida como desenvolvedor, contribuindo para projetos inovadores e crescendo continuamente na área tecnológica.
 
----
+## 🚀💻 Principais Tecnologias
 
-## Habilidades: 🛠️
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white" alt="Angular"/>
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Java-%23007396.svg?style=flat-square&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+</p>
 
+## 🔧⚙ Ferramentas
 
-### Frontend: 🎨
-<div align="center">
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular"/></code>
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat-square&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/Swagger-%2385EA2D.svg?style=flat-square&logo=swagger&logoColor=black" alt="Swagger"/>
+  <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Flyway-CC0200?style=flat-square&logo=flyway&logoColor=white" alt="Flyway Migrations"/>
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=flat-square&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"/>
+</p>
 
----
+## 📞 Contatos
+<p align="start">
+  <a href="https://www.linkedin.com/in/cristiano-mendes-link/"> <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:cristianomendes.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"></a>
+</p>
 
-### Backend: 🖥️
-
-<div align="center">
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
-<code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java"/></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" alt="Kotlin"/></code>
-<code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" alt="NestJs"/></code>
-<code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="Spring"/></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/></code>
-</div>
-
----
-
-
-## Estatísticas: 📊
+## ⚡ Estatísticas do GitHub
 <div align="center">
 <img height="200px" src="https://github-readme-stats.vercel.app/api?username=CristianoMends&show_icons=true&theme=dracula&custom_title=Estatísticas%20do%20Github">
 <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianoMends&custom_title=Linguagens%20Mais%20Utilizadas&layout=donut&langs_count=6&theme=dracula&hide=html,css,procfile">
 </div>
 
-## Contatos: 📞
-
-<div align="center">
-  
-  [![Cristiano](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cristiano-mendes-link/)](https://www.linkedin.com/in/cristiano-mendes-link/)
-  [![Gmail Badge](https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=cristianomendes.dev@gmail.com)](mailto:cristianomendes.dev@gmail.com)
-  
-</div>
 
