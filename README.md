@@ -30,16 +30,16 @@ Meu principal objetivo é construir uma carreira sólida como desenvolvedor, con
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=flat-square&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"/>
 </p>
 
+## ⚡ Estatísticas do GitHub
+<div align="center">
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=CristianoMends&show_icons=true&locale=pt-br&theme=dracula&custom_title=Estatísticas%20do%20Github">
+<img  width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianoMends&custom_title=Top%20Linguagens&layout=pie&langs_count=8&theme=dracula&hide=html,scss,shell,css,procfile&locale=pt-br">
+</div>
+
 ## 📞 Contatos
-<p align="start">
+<p align="center">
   <a href="https://www.linkedin.com/in/cristiano-mendes-link/"> <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:cristianomendes.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"></a>
 </p>
-
-## ⚡ Estatísticas do GitHub
-<div align="center">
-<img height="200px" src="https://github-readme-stats.vercel.app/api?username=CristianoMends&show_icons=true&theme=dracula&custom_title=Estatísticas%20do%20Github">
-<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianoMends&custom_title=Linguagens%20Mais%20Utilizadas&layout=donut&langs_count=6&theme=dracula&hide=html,css,procfile">
-</div>
 
 
