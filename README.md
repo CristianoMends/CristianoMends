@@ -2,7 +2,8 @@
 
 
 
-# 👋 Olá, eu sou o Cristiano
+# Olá, eu sou o Cristiano
+
 
 Sou desenvolvedor de software e estudante de engenharia de software na [Universidade Federal do Ceará](https://www.quixada.ufc.br/).
 Meu principal objetivo é construir uma carreira sólida como desenvolvedor, contribuindo para projetos inovadores e crescendo continuamente na área tecnológica.
@@ -17,9 +18,10 @@ Meu principal objetivo é construir uma carreira sólida como desenvolvedor, con
   <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white" alt="Angular"/>
   <img src="https://img.shields.io/badge/Java-%23007396.svg?style=flat-square&logo=java&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-</p>
+  <img src="https://img.shields.io/badge/Docker-%23333333.svg?style=flat-square&logo=docker" alt="Docker"/>
+  <img src="https://img.shields.io/badge/NestJS-%23000000.svg?style=flat-square&logo=nestjs&logoColor=red" alt="NestJS"/>
 
-## 🔧⚙ Ferramentas
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" alt="Git"/>
@@ -36,10 +38,13 @@ Meu principal objetivo é construir uma carreira sólida como desenvolvedor, con
 <img  width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianoMends&custom_title=Top%20Linguagens&layout=pie&langs_count=8&theme=dracula&hide=html,scss,shell,css,procfile&locale=pt-br">
 </div>
 
-## 📞 Contatos
-<p align="center">
-  <a href="https://www.linkedin.com/in/cristiano-mendes-link/"> <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:cristianomendes.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"></a>
-</p>
+# 
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/cristiano-mendes-link/">
+  <img src="https://img.shields.io/badge/-In%20Cristiano%20mendes%20link-0e76a8?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:cristianomendes.dev@gmail.com">
+  <img src="https://img.shields.io/badge/-cristianomendes.dev@gmail.com-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="cristianomendes.dev@gmail.com"></a>
+</p>
 
