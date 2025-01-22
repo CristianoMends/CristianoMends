@@ -34,8 +34,8 @@ Meu principal objetivo é construir uma carreira sólida como desenvolvedor, con
 
 ## ⚡ Estatísticas do GitHub
 <div align="center">
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=CristianoMends&show_icons=true&locale=pt-br&theme=dracula&custom_title=Estatísticas%20do%20Github">
-<img  width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianoMends&custom_title=Top%20Linguagens&layout=pie&langs_count=8&theme=dracula&hide=html,scss,shell,css,procfile&locale=pt-br">
+<img  height="200px" src="https://github-readme-stats.vercel.app/api?username=CristianoMends&show_icons=true&locale=pt-br&theme=dracula&custom_title=Estatísticas%20do%20Github">
+<img  height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianoMends&custom_title=Linguagens%20Mais%20usadas&layout=donut&langs_count=8&theme=dracula&hide=html,scss,shell,css,Dockerfile,procfile&locale=pt-br">
 </div>
 
 # 
