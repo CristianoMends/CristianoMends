@@ -1,5 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=CristianoMends&color=006bed)
 
+[![wakatime](https://wakatime.com/badge/user/1be1edc8-c9ae-4e38-99b0-3fc0446fc433.svg)](https://wakatime.com/@1be1edc8-c9ae-4e38-99b0-3fc0446fc433)
+
 # Olá, eu sou o Cristiano 👋
 
 Sou desenvolvedor de software e estudante de engenharia de software na [Universidade Federal do Ceará](https://www.quixada.ufc.br/).  
