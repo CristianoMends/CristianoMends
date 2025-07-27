@@ -1,7 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=CristianoMends&color=006bed)
 
-[![wakatime](https://wakatime.com/badge/user/1be1edc8-c9ae-4e38-99b0-3fc0446fc433.svg)](https://wakatime.com/@1be1edc8-c9ae-4e38-99b0-3fc0446fc433)
-
 # Olá, eu sou o Cristiano 👋
 
 Sou desenvolvedor de software e estudante de engenharia de software na [Universidade Federal do Ceará](https://www.quixada.ufc.br/).  
@@ -9,77 +7,84 @@ Meu principal objetivo é construir uma carreira sólida como desenvolvedor, con
 
 ---
 
-## 🚀💻 Tecnologias e Ferramentas
+## 🧠 Tecnologias e Ferramentas
 
-**🎨 Front-end**
-<p>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" alt="HTML5" title="HTML5"/></a>&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" alt="CSS3" title="CSS3"/></a>&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript"/></a>&nbsp;
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" title="TypeScript"/></a>&nbsp;
-  <a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" height="40" alt="Angular" title="Angular"/></a>&nbsp;
-</p>
+<p align="center">
+  <!-- Front-end -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" title="Angular" alt="Angular" width="40" />
 
-**🖥️ Back-end**
-<p>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" alt="Java" title="Java"/></a>&nbsp;
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="40" alt="Spring Boot" title="Spring Boot"/></a>&nbsp;
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" height="40" alt="NestJS" title="NestJS"/></a>&nbsp;
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" title="Node.js"/></a>&nbsp;
-</p>
+  <!-- Back-end -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title="Java" alt="Java" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" title="Spring Boot" alt="Spring Boot" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" title="NestJS" alt="NestJS" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" />
 
-**📱 Mobile**
-<p>
-  <a href="https://developer.android.com/jetpack/compose" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" height="40" alt="Jetpack Compose" title="Jetpack Compose"/></a>&nbsp;
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" height="40" alt="Firebase" title="Firebase"/></a>&nbsp;
-  <a href="https://developer.android.com/training/data-storage/room" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" height="40" alt="Room DB" title="Room DB (SQLite)"/></a>&nbsp;
-</p>
+  <!-- Mobile -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" title="Jetpack Compose" alt="Jetpack Compose" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" title="Firebase" alt="Firebase" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" title="Room DB (SQLite)" alt="SQLite" width="40" />
 
-**☁️ DevOps & Cloud**
-<p>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="40" alt="Docker" title="Docker"/></a>&nbsp;
-  <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" height="40" alt="GitHub Actions" title="GitHub Actions"/></a>&nbsp;
-  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" height="40" alt="Terraform" title="Terraform"/></a>&nbsp;
-  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" height="40" alt="Google Cloud" title="Google Cloud"/></a>&nbsp;
-  <a href="https://vercel.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" height="40" alt="Vercel" title="Vercel"/></a>&nbsp;
-</p>
+  <!-- Banco de dados -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" />
+  <img src="https://cdn.simpleicons.org/flyway/CC0200" title="Flyway" alt="Flyway" width="40" />
 
-**🗄️ Banco de Dados**
-<p>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" title="PostgreSQL"/></a>&nbsp;
-  <a href="https://flywaydb.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/flyway/CC0200" height="40" alt="Flyway" title="Flyway"/></a>&nbsp;
-</p>
+  <!-- DevOps / Cloud -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" title="GitHub Actions" alt="GitHub Actions" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" title="Terraform" alt="Terraform" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" title="Google Cloud" alt="Google Cloud" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" title="Vercel" alt="Vercel" width="40" />
 
-**🛠️ Ferramentas e Utilitários**
-<p>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" alt="Git" title="Git"/></a>&nbsp;
-  <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="40" alt="GitHub" title="GitHub"/></a>&nbsp;
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="40" alt="Postman" title="Postman"/></a>&nbsp;
-  <a href="https://swagger.io/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" height="40" alt="Swagger" title="Swagger"/></a>&nbsp;
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40" alt="VS Code" title="VS Code"/></a>&nbsp;
-  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" height="40" alt="IntelliJ IDEA" title="IntelliJ IDEA"/></a>&nbsp;
-  <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" height="40" alt="Android Studio" title="Android Studio"/></a>&nbsp;
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="40" alt="Figma" title="Figma"/></a>&nbsp;
+  <!-- Ferramentas -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" alt="Git" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" title="Swagger" alt="Swagger" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" title="IntelliJ IDEA" alt="IntelliJ IDEA" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" />
 </p>
 
 ---
 
-## ⚡ Estatísticas do GitHub
+## 📊 Estatísticas do Github
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CristianoMends&show_icons=true&locale=pt-br&theme=dracula&custom_title=Estatísticas%20do%20Github">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianoMends&custom_title=Linguagens%20Mais%20usadas&layout=compact&langs_count=9&hide=html,scss,shell,css,Dockerfile,procfile&locale=pt-br&theme=dracula">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CristianoMends&show_icons=true&locale=pt-br&theme=dracula&custom_title=Estatísticas%20do%20Github"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianoMends&layout=compact&locale=pt-br&langs_count=9&hide=html,scss,shell,css,Dockerfile,procfile&theme=dracula&custom_title=Linguagens%20Mais%20Usadas"/>
 </div>
 
 ---
+
+## ⏱️ Atividade WakaTime
+
+<div>
+
+### 🖥️ IDEs Mais Usadas
+<img src="https://wakatime.com/share/@uchris/bbca1aa6-1b56-47b6-8569-aea25d96746c.svg" alt="IDEs mais usadas" width="80%"/>
+
+### 📚 Linguagens Mais Usadas
+<img src="https://wakatime.com/share/@uchris/950ea087-4222-4adb-9de0-524869532877.svg" alt="Linguagens mais usadas" width="80%"/>
+
+### 📈 Atividade no último ano
+<img src="https://wakatime.com/share/@uchris/69d4f9ee-7686-4861-8963-681a3bd44f7e.svg" alt="atividade" width="80%"/>
+</div>
+
+---
+
 
 ## 🌐 Contato
 
 <p align="left">
   <a href="https://www.linkedin.com/in/cristiano-mendes-link/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="48"/>
   </a>
   <a href="mailto:cristianomendes.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="48"/>
   </a>
 </p>
