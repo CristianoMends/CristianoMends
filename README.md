@@ -54,7 +54,7 @@ Meu principal objetivo é construir uma carreira sólida como desenvolvedor, con
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CristianoMends&show_icons=true&locale=pt-br&theme=dracula&custom_title=Estatísticas%20do%20Github"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianoMends&layout=compact&locale=pt-br&langs_count=9&hide=html,scss,shell,css,Dockerfile,procfile&theme=dracula&custom_title=Linguagens%20Mais%20Usadas"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianoMends&layout=compact&locale=pt-br&langs_count=9&hide=html,scss,shell,css,Dockerfile,procfile,hcl&theme=dracula&custom_title=Linguagens%20Mais%20Usadas"/>
 </div>
 
 ## ⏱️ Atividade WakaTime
@@ -62,10 +62,7 @@ Meu principal objetivo é construir uma carreira sólida como desenvolvedor, con
 <div>
 
 ### 📚 Linguagens Mais Usadas
-<img src="https://wakatime.com/share/@uchris/2df47075-599c-4165-a5d8-bd59cd44de34.svg" alt="Linguagens mais usadas"/>
-
-### 🖥️ IDEs Mais Usadas
-<img src="https://wakatime.com/share/@uchris/bbca1aa6-1b56-47b6-8569-aea25d96746c.svg" alt="IDEs mais usadas" width="80%"/>
+<img src="https://wakatime.com/share/@uchris/1b84b7c3-165e-4928-899b-1b0a3b0fce81.svg" alt="Linguagens mais usadas" width="70%"/>
 
 ### 📈 Atividade no último ano
 <img src="https://wakatime.com/share/@uchris/69d4f9ee-7686-4861-8963-681a3bd44f7e.svg" alt="atividade" width="80%"/>
