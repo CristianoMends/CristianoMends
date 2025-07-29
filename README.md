@@ -57,7 +57,7 @@ Meu principal objetivo é construir uma carreira sólida como desenvolvedor, con
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianoMends&layout=compact&locale=pt-br&langs_count=9&hide=html,scss,shell,css,Dockerfile,procfile,hcl&theme=dracula&custom_title=Linguagens%20Mais%20Usadas"/>
 </div>
 
-## ⏱️ Atividade WakaTime
+## ⏱️ Atividade WakaTime 2025+
 
 <div>
 
