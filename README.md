@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=CristianoMends&color=006bed)
-
 # Olá, eu sou o Cristiano 👋
 
 Sou desenvolvedor de software e estudante de engenharia de software na [Universidade Federal do Ceará](https://www.quixada.ufc.br/).  
