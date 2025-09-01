@@ -60,7 +60,7 @@ Meu principal objetivo é construir uma carreira sólida como desenvolvedor, con
 <div>
 
 ### 📚 Linguagens Mais Usadas
-<img src="https://wakatime.com/share/@uchris/1b84b7c3-165e-4928-899b-1b0a3b0fce81.svg" alt="Linguagens mais usadas" width="70%"/>
+<img src="https://wakatime.com/share/@uchris/747875c4-5c9a-46de-9dd5-350041446479.svg" alt="Linguagens mais usadas" width="100%"/>
 
 ### 📈 Atividade no último ano
 <img src="https://wakatime.com/share/@uchris/69d4f9ee-7686-4861-8963-681a3bd44f7e.svg" alt="atividade" width="80%"/>
