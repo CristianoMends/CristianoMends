@@ -7,7 +7,7 @@
 </h1>
 
 <h3 align="center">
- <i>Desenvolvedor de Software | Backend & Mobile</i>
+ <i>Desenvolvedor de Software | Backend</i>
 </h3>
 
 Desenvolvedor de Software com foco em Backend e Mobile, e estudante de Engenharia de Software na <a href="https://www.ufc.br/">Universidade Federal do Ceará</a>. 
