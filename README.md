@@ -46,15 +46,6 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=CristianoMends&show_icons=true&locale=pt-br&theme=dracula&hide_border=true&custom_title=Estatísticas%20do%20Github"/>
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianoMends&layout=compact&locale=pt-br&langs_count=6&hide=scss,shell,haskell,Dockerfile,procfile,hcl&theme=dracula&hide_border=true&custom_title=Linguagens%20Mais%20Usadas"/>
-</p>
-
----
-
 ### 📬 Contato
 
 <p align="center">
