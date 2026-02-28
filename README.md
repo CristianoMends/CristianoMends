@@ -7,7 +7,7 @@
 </h1>
 
 <h3 align="center">
-  <i>Desenvolvedor Backend | Arquitetura de Software & Cloud</i>
+  <i>Desenvolvedor Backend</i>
 </h3>
 
 <p align="center">
@@ -24,7 +24,7 @@
 ### 👨‍💻 Sobre mim
 
 - 💻 Foco atual no desenvolvimento de **APIs RESTful** e **microsserviços**.
-- ⚙️ Apaixonado por **Clean Architecture**, modelagem de dados e design patterns.
+- ⚙️ **Clean Architecture**, modelagem de dados e design patterns.
 - ☁️ Explorando ecossistemas de **Cloud Computing** e práticas de **DevOps** (Docker, CI/CD).
 - 🚀 Sempre buscando escrever um código limpo, testável e otimizar a performance do lado do servidor.
 
