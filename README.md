@@ -11,7 +11,6 @@
 </h3>
 
 <p align="center">
-  Construindo sistemas escaláveis, APIs robustas e arquiteturas eficientes. <br>
   Estudante de Engenharia de Software na <a href="https://www.ufc.br/">Universidade Federal do Ceará (UFC)</a>.
 </p>
 
@@ -23,7 +22,7 @@
 
 ### 👨‍💻 Sobre mim
 
-- 💻 Foco atual no desenvolvimento de **APIs RESTful** e **microsserviços**.
+- 💻 Foco atual no desenvolvimento backend.
 - ⚙️ **Clean Architecture**, modelagem de dados e design patterns.
 - ☁️ Explorando ecossistemas de **Cloud Computing** e práticas de **DevOps** (Docker, CI/CD).
 - 🚀 Sempre buscando escrever um código limpo, testável e otimizar a performance do lado do servidor.
