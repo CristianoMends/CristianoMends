@@ -11,10 +11,6 @@
 </h3>
 
 <p align="center">
-  Estudante de Engenharia de Software na <a href="https://www.ufc.br/">Universidade Federal do Ceará (UFC)</a>.
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Dispon%C3%ADvel%20para%20oportunidades-Open%20to%20work-success?style=for-the-badge&logo=target" alt="Open to Work">
 </p>
 
