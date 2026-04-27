@@ -20,9 +20,9 @@
 
 - 💻 Desenvolvedor com foco em backend utilizando **Java**.
 - ⚙️ Experiência com **Clean Architecture**, design patterns e construção de APIs escaláveis.
-- 🔄 Vivência com mensageria e sistemas distribuídos (**RabbitMQ**).
+- 🔄 Experiência com mensageria (**RabbitMQ**).
 - ☁️ Conhecimento em **Cloud Computing** e práticas de **DevOps** (Docker, GCP, CI/CD).
-- 🚀 Experiência complementar com Node.js, Python e desenvolvimento frontend moderno.
+- 🚀 Experiência complementar com Node.js, Python e desenvolvimento frontend moderno(React, Next, Angular).
 - 📈 Sempre buscando escrever código limpo, testável e com alta performance.
 
 ---
